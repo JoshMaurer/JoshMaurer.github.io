@@ -1,0 +1,105 @@
+<!-- Working with the div tag in HTML -->
+    <!-- <div>Welcome to my site!</div>
+    <a href="about.html">Get to know me</a>
+
+Guide to HTML Classes and ID
+    <div id= "header-wrapper">
+    </div> 
+
+    <div class= "content-wrapper">
+    </div>  
+    
+Guide to Padding in CSS  
+.style-this-div {
+    padding-top: 20px;
+    padding-right: 43px;
+    padding-left: 50px;
+
+    or
+
+    padding: 20px 43px 0px 50px
+}
+
+Guide to Margin in CSS
+.card {
+    margin: 15px;
+}
+
+Font Awesome Instagram
+<i class="fa-brands fa-instagram"></i>
+
+How to Select and Style Child Tag Elements
+.elephant p {
+    color: red;
+} -->
+
+<!-- How to Import and Style Images in HTML
+<img src="my-great-logo.jpg" alt="My Logo"> -->
+
+<!-- Refactoring the CSS Code to Use More Specific Selectors
+.item-wrapper > .item-description p {
+    font-size: 30px;
+} -->
+
+<!-- Integrating Flexbox Inside of a CSS Grid Container to Align Items
+.link-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+} -->
+
+<!-- Styling the Right Column of the Navigation Bar
+.sidebar-wrapper {
+    display: flex;
+    text-align: right;
+}
+
+.sidebar-wrapper > .subtext {
+    color: #0597e6;
+    font-size: 14px;
+}
+
+.sidebar-wrapper > .header {
+    font-size: 18px
+}
+ -->
+
+
+ <!-- Finalizing the Navigation Bar and Organizing the Style Files to Conform with Development Best Practices
+
+ /*These are the default styles for the description. Leave these styles*/
+ .description {
+     color: lightgrey;
+     font-size: 12px;
+ }
+ 
+ /*Write your code here to overwrite the above styles*/
+ 
+ .item-2 > .description {
+     color: lightblue;
+     font-size: 14px;
+ } -->
+
+
+ <!-- How to Build a Parallax Scrolling Feature
+ #product-header {
+    background-image: url(../../assets/images/puppies.png);
+    padding: 430px;
+    height: 375px;
+    background-position: center;
+    background-repeat: no-repeat;
+    } -->
+
+    <!-- Adding Text Overlays On Top of the Parallax Image
+    .main-header {
+        padding: 7px 32px;
+        background-color: #fa42c3;
+        width: 125px;
+    }
+    .sub-header {
+        padding: 4px 15px;
+        background-color: #7c75c7;
+        color: white;
+    } -->
+    
+    nlamb@bottega.edu
